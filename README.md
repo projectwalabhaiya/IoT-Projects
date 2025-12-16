@@ -1,23 +1,23 @@
 Top 11 Sensors For IoT Beginners 
 
-DHT11 / DHT22 – Temperature & Humidity
+1. DHT11 / DHT22 – Temperature & Humidity
 
-MQ-2 / MQ-135 – Gas / Air Quality
+2. MQ-2 / MQ-135 – Gas / Air Quality
 
-PIR Sensor – Motion Detection
+3. PIR Sensor – Motion Detection
 
-Ultrasonic Sensor (HC-SR04) – Distance Measurement
+4. Ultrasonic Sensor (HC-SR04) – Distance Measurement
 
-LDR – Light Intensity
+5. LDR – Light Intensity
 
-Soil Moisture Sensor
+6. Soil Moisture Sensor
 
-Flame Sensor
+7. Flame Sensor
 
-Rain Sensor
+8. Rain Sensor
+ 
+9. IR Obstacle Sensor
 
-IR Obstacle Sensor
+10. Sound Sensor
 
-Sound Sensor
-
-BMP180 / BMP280 – Pressure & Altitude
+11. BMP180 / BMP280 – Pressure & Altitude
